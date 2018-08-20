@@ -10,6 +10,7 @@ More can be done on this aspect to make it more attractive to switch over to the
 
 First and foremost, what are the main components of a pair of headphones. I've taken a small sample set of broken headphones from different brands and styles to see what makes them tick:
 
+[[https://github.com/kgeok/Project-Reverb/blob/master/IMG_4385.jpeg]]
 
 
 From here I analyzed and noticed a few things:
