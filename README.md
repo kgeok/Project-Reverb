@@ -31,4 +31,14 @@ From here I analyzed and noticed a few things:
 
 Headphones come with very few components, of course there is a pair of small speakers and wires and a jack, some headphones come with volume buttons a middle switch for phone and music control and a built in microphone. more advanced headphones come with a built in DAC (Digital to Audio Converter) for converting the bits to actual audio, audio quality is dependent of this factor. 
 
-More to follow...
+### July 7, 2019:
+
+The main connector I wanted to use for this project was USB-C because it is not only standardized and becoming more and more widespread throughout the industry, but because it has a very flexible set of protocols built in such as USB-PD, Audio Accessory protocol, DisplayPort, VGA, USB, HDMI, etc. 
+
+For our use case we need to have the USB-PD and Audio Accessory protocols 
+
+For this to be possible we would need to have the connector hooked up to a specific configuration
+
+![USB-C Pinout](https://github.com/kgeok/Project-Reverb/blob/master/USBCPINOUT.jpeg)
+
+
